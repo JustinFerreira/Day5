@@ -1,0 +1,7 @@
+C:\Users\justi\Desktop\Game Design\IGM\Repo Demo\D5_Demo\D5_Demo\bin\Debug\D5_Demo.exe.config
+C:\Users\justi\Desktop\Game Design\IGM\Repo Demo\D5_Demo\D5_Demo\bin\Debug\D5_Demo.exe
+C:\Users\justi\Desktop\Game Design\IGM\Repo Demo\D5_Demo\D5_Demo\bin\Debug\D5_Demo.pdb
+C:\Users\justi\Desktop\Game Design\IGM\Repo Demo\D5_Demo\D5_Demo\obj\Debug\D5_Demo.csprojAssemblyReference.cache
+C:\Users\justi\Desktop\Game Design\IGM\Repo Demo\D5_Demo\D5_Demo\obj\Debug\D5_Demo.csproj.CoreCompileInputs.cache
+C:\Users\justi\Desktop\Game Design\IGM\Repo Demo\D5_Demo\D5_Demo\obj\Debug\D5_Demo.exe
+C:\Users\justi\Desktop\Game Design\IGM\Repo Demo\D5_Demo\D5_Demo\obj\Debug\D5_Demo.pdb
