@@ -10,7 +10,7 @@ namespace D5_Demo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello from D5");
+            Console.WriteLine("Hello from bruhland");
         }
     }
 }
